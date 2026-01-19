@@ -4,7 +4,7 @@ import pandas as pd
 import numpy_financial as npf
 
 st.set_page_config(page_title="Mieterstrom Wirtschaftlichkeit", layout="wide")
-st.title("Mieterstrom – Wirtschaftlichkeits- & Hebel-Simulator")
+st.title("baetz energy Mieterstrom – Wirtschaftlichkeits- & Hebel-Simulator")
 
 # Defaultwerte aus deinen Parametern
 DEFAULTS = {
